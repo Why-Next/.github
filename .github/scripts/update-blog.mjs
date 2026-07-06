@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // blog.whynext.app RSS 최신 글을 profile/README.md 마커 사이에 채워 넣습니다.
-// 의존성 없음 — Node 20+ 내장 fetch 사용.
+// 의존성 없음 - Node 20+ 내장 fetch 사용.
 import { readFile, writeFile } from "node:fs/promises";
 
 const FEED_URL = "https://blog.whynext.app/rss.xml";
