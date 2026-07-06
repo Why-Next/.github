@@ -53,6 +53,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Next.js로 MDX 블로그 직접 만들기 - 이 블로그를 만든 방법](https://blog.whynext.app/posts/nextjs-mdx-blog-from-scratch) <sub>2026-07-06</sub>
+- [영어 단어, 외우지 말고 '내 문장'으로 바꿔야 하는 이유](https://blog.whynext.app/posts/english-words-into-my-own-sentences) <sub>2026-07-06</sub>
+- [작심삼일을 이기는 '하루 한 번' 습관 설계법](https://blog.whynext.app/posts/one-a-day-habit-design) <sub>2026-07-04</sub>
+- [앱 5개를 한 저장소에서 - 1인 개발자의 Turborepo 모노레포](https://blog.whynext.app/posts/turborepo-monorepo-for-solo-makers) <sub>2026-07-02</sub>
+- [미니 PC에 Docker + Cloudflare Tunnel로 셀프 호스팅하기](https://blog.whynext.app/posts/self-hosting-with-docker-and-cloudflare-tunnel) <sub>2026-06-30</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>👉 더 보기 · <a href="https://blog.whynext.app">blog.whynext.app</a> · 위 목록은 매일 자동으로 갱신됩니다.</sub>
