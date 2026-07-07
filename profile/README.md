@@ -52,11 +52,11 @@
 ## 📝 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [AI가 코드를 짜주는 시대, Git은 왜 더 중요해졌나](https://blog.whynext.app/posts/why-git-matters-more-in-the-ai-era) <sub>2026-07-07</sub>
+- [지우면 끝날 문제를, 나는 오래 붙들고 있었다](https://blog.whynext.app/posts/recovery-beats-perfect-fix) <sub>2026-07-06</sub>
 - [Next.js로 MDX 블로그 직접 만들기 - 이 블로그를 만든 방법](https://blog.whynext.app/posts/nextjs-mdx-blog-from-scratch) <sub>2026-07-06</sub>
-- [영어 단어, 외우지 말고 '내 문장'으로 바꿔야 하는 이유](https://blog.whynext.app/posts/english-words-into-my-own-sentences) <sub>2026-07-06</sub>
-- [작심삼일을 이기는 '하루 한 번' 습관 설계법](https://blog.whynext.app/posts/one-a-day-habit-design) <sub>2026-07-04</sub>
-- [앱 5개를 한 저장소에서 - 1인 개발자의 Turborepo 모노레포](https://blog.whynext.app/posts/turborepo-monorepo-for-solo-makers) <sub>2026-07-02</sub>
-- [미니 PC에 Docker + Cloudflare Tunnel로 셀프 호스팅하기](https://blog.whynext.app/posts/self-hosting-with-docker-and-cloudflare-tunnel) <sub>2026-06-30</sub>
+- [받침이 뒤로 넘어간다? 한국어 연음 규칙 한 번에 정리](https://blog.whynext.app/posts/korean-liaison-linking-sounds) <sub>2026-07-06</sub>
+- [단어는 맞는데 어색하다면 - 한국어 억양과 리듬 잡는 법](https://blog.whynext.app/posts/korean-intonation-and-rhythm) <sub>2026-07-06</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>👉 더 보기 · <a href="https://blog.whynext.app">blog.whynext.app</a> · 위 목록은 매일 자동으로 갱신됩니다.</sub>
