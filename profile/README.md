@@ -52,11 +52,11 @@
 ## 📝 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [그냥 staging에서 끄면 되잖아 — 시끄러운 알림이 감춘 진짜 버그](https://blog.whynext.app/posts/not-every-error-should-be-retried) <sub>2026-07-08</sub>
+- [종료 훅이 두 번 돌고 있었다 — SIGTERM의 주인이 둘일 때](https://blog.whynext.app/posts/graceful-shutdown-ran-twice) <sub>2026-07-08</sub>
+- [안 받고 있던 할인 — Spot과 Graviton은 왜 싼가](https://blog.whynext.app/posts/cloud-bill-has-reasons) <sub>2026-07-08</sub>
 - [AI가 코드를 짜주는 시대, Git은 왜 더 중요해졌나](https://blog.whynext.app/posts/why-git-matters-more-in-the-ai-era) <sub>2026-07-07</sub>
 - [지우면 끝날 문제를, 나는 오래 붙들고 있었다](https://blog.whynext.app/posts/recovery-beats-perfect-fix) <sub>2026-07-06</sub>
-- [Next.js로 MDX 블로그 직접 만들기 - 이 블로그를 만든 방법](https://blog.whynext.app/posts/nextjs-mdx-blog-from-scratch) <sub>2026-07-06</sub>
-- [받침이 뒤로 넘어간다? 한국어 연음 규칙 한 번에 정리](https://blog.whynext.app/posts/korean-liaison-linking-sounds) <sub>2026-07-06</sub>
-- [단어는 맞는데 어색하다면 - 한국어 억양과 리듬 잡는 법](https://blog.whynext.app/posts/korean-intonation-and-rhythm) <sub>2026-07-06</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>👉 더 보기 · <a href="https://blog.whynext.app">blog.whynext.app</a> · 위 목록은 매일 자동으로 갱신됩니다.</sub>
