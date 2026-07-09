@@ -52,11 +52,11 @@
 ## 📝 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
-- [그냥 staging에서 끄면 되잖아 — 시끄러운 알림이 감춘 진짜 버그](https://blog.whynext.app/posts/not-every-error-should-be-retried) <sub>2026-07-08</sub>
-- [종료 훅이 두 번 돌고 있었다 — SIGTERM의 주인이 둘일 때](https://blog.whynext.app/posts/graceful-shutdown-ran-twice) <sub>2026-07-08</sub>
-- [안 받고 있던 할인 — Spot과 Graviton은 왜 싼가](https://blog.whynext.app/posts/cloud-bill-has-reasons) <sub>2026-07-08</sub>
+- [그냥 staging에서 끄면 되잖아 - 시끄러운 알림이 감춘 진짜 버그](https://blog.whynext.app/posts/not-every-error-should-be-retried) <sub>2026-07-08</sub>
+- [AI가 "다 됐어요"라고 할 때, 그걸 믿지 않는 장치](https://blog.whynext.app/posts/make-the-agent-prove-its-done) <sub>2026-07-08</sub>
+- [종료 훅이 두 번 돌고 있었다 - SIGTERM의 주인이 둘일 때](https://blog.whynext.app/posts/graceful-shutdown-ran-twice) <sub>2026-07-08</sub>
+- [안 받고 있던 할인 - Spot과 Graviton은 왜 싼가](https://blog.whynext.app/posts/cloud-bill-has-reasons) <sub>2026-07-08</sub>
 - [AI가 코드를 짜주는 시대, Git은 왜 더 중요해졌나](https://blog.whynext.app/posts/why-git-matters-more-in-the-ai-era) <sub>2026-07-07</sub>
-- [지우면 끝날 문제를, 나는 오래 붙들고 있었다](https://blog.whynext.app/posts/recovery-beats-perfect-fix) <sub>2026-07-06</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>👉 더 보기 · <a href="https://blog.whynext.app">blog.whynext.app</a> · 위 목록은 매일 자동으로 갱신됩니다.</sub>
