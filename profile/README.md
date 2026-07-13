@@ -52,11 +52,11 @@
 ## 📝 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [우리 앱의 TLS를 가로채던 9명을 추적했더니, 구글이었다](https://blog.whynext.app/posts/who-was-intercepting-our-tls) <sub>2026-07-13</sub>
+- [DB가 죽었다는 알림이 왔다. DB는 죽은 적이 없었다](https://blog.whynext.app/posts/the-database-was-never-down) <sub>2026-07-13</sub>
 - [AI 에이전트 여러 개를 한 레포에 풀어놨더니 생긴 일](https://blog.whynext.app/posts/when-parallel-agents-share-one-checkout) <sub>2026-07-10</sub>
 - [에이전트의 "완료"를 믿지 않기로 했다 - verify.sh 게이트, prove-it](https://blog.whynext.app/posts/prove-it-agent-verification-gate) <sub>2026-07-10</sub>
 - [AI가 고친 코드를 다른 AI에게 반증시키는 파이프라인](https://blog.whynext.app/posts/cross-check-with-a-second-ai) <sub>2026-07-10</sub>
-- [그냥 staging에서 끄면 되잖아 - 시끄러운 알림이 감춘 진짜 버그](https://blog.whynext.app/posts/not-every-error-should-be-retried) <sub>2026-07-08</sub>
-- [AI가 "다 됐어요"라고 할 때, 그걸 믿지 않는 장치](https://blog.whynext.app/posts/make-the-agent-prove-its-done) <sub>2026-07-08</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>👉 더 보기 · <a href="https://blog.whynext.app">blog.whynext.app</a> · 위 목록은 매일 자동으로 갱신됩니다.</sub>
